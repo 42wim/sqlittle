@@ -9,8 +9,8 @@ import (
 	"io"
 	"sync"
 
-	"github.com/alicebob/sqlittle"
-	sqsql "github.com/alicebob/sqlittle/sql"
+	"github.com/42wim/sqlittle"
+	sqsql "github.com/42wim/sqlittle/sql"
 )
 
 func init() {

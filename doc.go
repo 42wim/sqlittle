@@ -25,7 +25,7 @@ for example be storing app configuration in read-only sqlite files.
 
 Docs
 
-https://godoc.org/github.com/alicebob/sqlittle for the go doc and examples.
+https://godoc.org/github.com/42wim/sqlittle for the go doc and examples.
 
 See [LOWLEVEL.md](LOWLEVEL.md) about the low level reader.
 See [CODE.md](CODE.md) for an overview how the code is structured.

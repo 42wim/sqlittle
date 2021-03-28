@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/alicebob/sqlittle"
+	"github.com/42wim/sqlittle"
 	"github.com/andreyvit/diff"
 	"github.com/davecgh/go-spew/spew"
 )

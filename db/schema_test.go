@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/alicebob/sqlittle/sql"
+	"github.com/42wim/sqlittle/sql"
 	"github.com/andreyvit/diff"
 	"github.com/davecgh/go-spew/spew"
 )

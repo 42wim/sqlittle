@@ -5,7 +5,7 @@ package ci
 import (
 	"testing"
 
-	"github.com/alicebob/sqlittle"
+	"github.com/42wim/sqlittle"
 )
 
 func TestCollateRtrim(t *testing.T) {

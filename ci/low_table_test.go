@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	sdb "github.com/alicebob/sqlittle/db"
-	"github.com/alicebob/sqlittle/sql"
+	sdb "github.com/42wim/sqlittle/db"
+	"github.com/42wim/sqlittle/sql"
 )
 
 // table definitions are read and changes are picked up

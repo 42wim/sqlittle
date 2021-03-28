@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	sdb "github.com/alicebob/sqlittle/db"
+	sdb "github.com/42wim/sqlittle/db"
 )
 
 // locking picks up changes in the file

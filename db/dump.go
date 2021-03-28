@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"os"
 
-	sdb "github.com/alicebob/sqlittle/db"
+	sdb "github.com/42wim/sqlittle/db"
 )
 
 func main() {
